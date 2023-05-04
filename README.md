@@ -1,7 +1,9 @@
 # DBMS-Bash-Simulator
+
 ```
 This is a simple project that simulates a Database Management System using Bash scripting. 
-It provides a basic set of functionalities to create, read, update and delete data from a simple text file.
+It provides a basic set of functionalities that simulates a Data Base Management System
+using simple text files.
 ```
 ## Features
 > Once you run the script, the main menu will be propted.
